@@ -18,6 +18,7 @@ Apply製のTrueDepthカメラ搭載のiOSデバイス
 - [ ] iPad Pro 12.9 インチ (第 3 世代)
 - [ ] iPad Pro 11 インチ (第 2 世代)
 - [ ] iPad Pro 11 インチ
+- [x] 動作確認済み
 
 [参考ページ](https://support.apple.com/ja-jp/HT209183)
 
@@ -56,5 +57,5 @@ iOSデバイスで以下のリンクにアクセスしてEmosignをテストし�
 
 
 ## お問い合わせ
-- [email](ueyama0105+emosign@gmail.com)
+- [お問い合わせページ](https://docs.google.com/forms/d/e/1FAIpQLSeM6epPLYCkLF4ngk_GQKEzkqP9Fn1FzsuyhnKS3RJylz_Klg/viewform)
 - [Twitter](https://twitter.com/akihiro01051)
