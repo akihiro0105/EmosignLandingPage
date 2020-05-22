@@ -19,6 +19,8 @@ Apply製のTrueDepthカメラ搭載のiOSデバイス
 - [ ] iPad Pro 11 インチ (第 2 世代)
 - [ ] iPad Pro 11 インチ
 
+[参考ページ](https://support.apple.com/ja-jp/HT209183)
+
 ## 機能紹介
 ### VRMモデル対応
 VRMフォーマットの3Dモデルに対応しています．
@@ -28,6 +30,9 @@ TrueDepthカメラを利用した表情認識を行いアバターに反映さ�
 
 ### MultiHandTracking対応
 画像処理による指を含めた両手のトラッキングをアバターに反映させることができます．
+
+## 使い方
+[Youtube動画リスト]()
 
 
 ## ライセンス
