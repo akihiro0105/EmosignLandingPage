@@ -7,12 +7,17 @@ TrueDepthカメラを搭載したiOSデバイス単体でモデルの表示と�
 
 ## 実行環境
 Apply製のTrueDepthカメラ搭載のiOSデバイス
-- iPhoneX
-- iPhoneXS
-- iPhoneXR
-- iPhone11
-- iPad Pro(2017)
-
+- [ ] iPhone 11 Pro Max
+- [ ] iPhone 11 Pro
+- [ ] iPhone 11
+- [ ] iPhone XS Max
+- [x] iPhone XS
+- [ ] iPhone XR
+- [ ] iPhone X
+- [ ] iPad Pro 12.9 インチ (第 4 世代)
+- [ ] iPad Pro 12.9 インチ (第 3 世代)
+- [ ] iPad Pro 11 インチ (第 2 世代)
+- [ ] iPad Pro 11 インチ
 
 ## 機能紹介
 ### VRMモデル対応
@@ -38,10 +43,13 @@ iOSデバイスで以下のリンクにアクセスしてEmosignをテストし�
 
 
 ## 今後の予定
-AppStoreでのリリース
+- [ ] AppStoreでのリリース
+- [ ] Windows/Mac連携アプリ
+- [ ] TureDepthカメラ未対応デバイス対応
+- [ ] Androidデバイス対応
+- [ ] ネットワーク連携機能
 
 
 ## お問い合わせ
-[email](ueyama0105+emosign@gmail.com)
-
-[Twitter](https://twitter.com/akihiro01051)
+- [email](ueyama0105+emosign@gmail.com)
+- [Twitter](https://twitter.com/akihiro01051)
