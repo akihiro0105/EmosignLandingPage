@@ -1,12 +1,11 @@
-# Emosign
-
 ## Emosignとは
 誰でも簡単にモーショントラッキングを利用したアバター表示を行うことができるアプリです．
+表情と両手の認識を行うことでアバターを操作することができます．
 TrueDepthカメラを搭載したiOSデバイス単体でモデルの表示と操作が行えます．
 
 
 ## 実行環境
-Apply製のTrueDepthカメラ搭載のiOSデバイス
+Apple製のTrueDepthカメラ搭載のiOSデバイス
 - [ ] iPhone 11 Pro Max
 - [ ] iPhone 11 Pro
 - [ ] iPhone 11
@@ -25,6 +24,7 @@ Apply製のTrueDepthカメラ搭載のiOSデバイス
 ## 機能紹介
 ### VRMモデル対応
 VRMフォーマットの3Dモデルに対応しています．
+[VRM](https://vrm.dev/)
 
 ### FaceTracking対応
 TrueDepthカメラを利用した表情認識を行いアバターに反映させることができます．
