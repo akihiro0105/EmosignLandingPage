@@ -1,12 +1,42 @@
-## Welcome to GitHub Pages
+# Emosign
 
-You can use the [editor on GitHub](https://github.com/akihiro0105/EmosignLandingPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Emosignとは
+誰でも簡単にモーショントラッキングを利用したアバター表示を行うことができるアプリです．
+TrueDepthカメラを搭載したiOSデバイス単体でモデルの表示と操作が行えます．
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 実行環境
+Apply製のTrueDepthカメラ搭載のiOSデバイス
+- iPhoneX
+- iPhoneXS
+- iPhoneXR
+- iPhone11
+- iPad Pro(2017)
 
-### Markdown
+## 機能紹介
+### VRMモデル対応
+VRMフォーマットの3Dモデルに対応しています．
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### FaceTracking対応
+TrueDepthカメラを利用した表情認識を行いアバターに反映させることができます．
+
+### MultiHandTracking対応
+画像処理による指を含めた両手のトラッキングをアバターに反映させることができます．
+
+## ライセンス
+月額課金のサブスクリプションを予定しています．(価格未定)
+
+## TestFlight
+現在Emosignはテスト段階でありTestFlightでのテスターを募集しています．
+iOSデバイスで以下のリンクにアクセスしてEmosignをテストしてください．
+[TestFlight]()
+
+## 今後の予定
+
+## お問い合わせ
+[email](ueyama0105+emosign@gmail.com)
+[Twitter](https://twitter.com/akihiro01051)
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +58,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akihiro0105/EmosignLandingPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
