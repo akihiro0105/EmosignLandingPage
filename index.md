@@ -41,6 +41,8 @@ TrueDepthカメラを利用した表情認識を行いアバターに反映さ�
 
 一部制限の解除に月額課金を予定しています．(価格未定)
 
+[ライセンスの詳細](https://akihiro0105.github.io/EmosignLicensePage/)
+
 ## TestFlight
 現在Emosignはテスト段階でありTestFlightでのテスターを募集しています．
 iOSデバイスで以下のリンクにアクセスしてEmosignをテストしてください．
