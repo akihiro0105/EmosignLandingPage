@@ -5,6 +5,8 @@
 
 ![img](Image/IMG_0351.PNG)|![img](Image/IMG_0352.PNG)
 
+![img](Image/Capture20200525115445.png){:height="25%" width="25%"}
+
 ## 実行環境
 Apple製のTrueDepthカメラ搭載のiOSデバイス
 - [ ] iPhone 11 Pro Max
