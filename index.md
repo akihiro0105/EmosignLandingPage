@@ -5,7 +5,7 @@
 
 ![img](Image/IMG_0351.PNG)|![img](Image/IMG_0352.PNG)
 
-![img](Image/Capture20200525115445.png){:height="25%" width="25%"}
+![img](Image/Capture20200525115445.png){:height="100%" width="100%"}
 
 ## 実行環境
 Apple製のTrueDepthカメラ搭載のiOSデバイス
