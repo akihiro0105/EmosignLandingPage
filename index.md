@@ -37,7 +37,13 @@ TrueDepthカメラを利用した表情認識を行いアバターに反映さ�
 画像処理による指を含めた両手のトラッキングをアバターに反映させることができます．
 
 ## 使い方
-[Youtube動画リスト]()
+[Emosignの利用開始方法](https://youtu.be/HYjYt9sq6Bs)
+
+[Emosignのモデル操作方法](https://youtu.be/pCm51vZ1Lkg)
+
+[EmosignのVRMモデル追加方法](https://youtu.be/HZv-hvIA7XU)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZv-hvIA7XU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## ライセンス
