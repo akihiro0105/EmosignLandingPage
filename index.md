@@ -41,10 +41,6 @@ TrueDepthカメラを利用した表情認識を行いアバターに反映さ�
 
 
 ## ライセンス
-基本利用は無料
-
-一部制限の解除に月額課金を予定しています．(価格未定)
-
 [ライセンスの詳細についてはこちら](https://akihiro0105.github.io/EmosignLicensePage/)
 
 ## TestFlight
