@@ -8,22 +8,11 @@
 ![img](Image/Capture20200525115445.png){:height="100%" width="100%"}
 
 
-## 実行環境
-Apple製のTrueDepthカメラ搭載のiOSデバイス
-- [ ] iPhone 11 Pro Max
-- [ ] iPhone 11 Pro
-- [ ] iPhone 11
-- [ ] iPhone XS Max
-- [x] iPhone XS
-- [ ] iPhone XR
-- [ ] iPhone X
-- [ ] iPad Pro 12.9 インチ (第 4 世代)
-- [ ] iPad Pro 12.9 インチ (第 3 世代)
-- [ ] iPad Pro 11 インチ (第 2 世代)
-- [ ] iPad Pro 11 インチ
-- [x] 動作確認済み
+## TestFlight
+現在Emosignはテスト段階でありTestFlightでのテスターを募集しています．
+iOSデバイスで以下のリンクにアクセスしてEmosignをテストしてください．
 
-[参考ページ](https://support.apple.com/ja-jp/HT209183)
+[TestFlightに参加する]()
 
 
 ## 機能紹介
@@ -43,11 +32,22 @@ TrueDepthカメラを利用した表情認識を行いアバターに反映さ�
 [ライセンスの詳細についてはこちら](https://akihiro0105.github.io/EmosignLicensePage/)
 
 
-## TestFlight
-現在Emosignはテスト段階でありTestFlightでのテスターを募集しています．
-iOSデバイスで以下のリンクにアクセスしてEmosignをテストしてください．
+## 実行環境
+Apple製のTrueDepthカメラ搭載のiOSデバイス
+- [ ] iPhone 11 Pro Max
+- [ ] iPhone 11 Pro
+- [ ] iPhone 11
+- [ ] iPhone XS Max
+- [x] iPhone XS
+- [ ] iPhone XR
+- [ ] iPhone X
+- [ ] iPad Pro 12.9 インチ (第 4 世代)
+- [ ] iPad Pro 12.9 インチ (第 3 世代)
+- [ ] iPad Pro 11 インチ (第 2 世代)
+- [ ] iPad Pro 11 インチ
+- [x] 動作確認済み
 
-[TestFlightに参加する]()
+[参考ページ](https://support.apple.com/ja-jp/HT209183)
 
 
 ## 使い方
