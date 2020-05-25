@@ -3,6 +3,10 @@
 - 表情と両手の認識を行うことでアバターを操作することができます．
 - 現在はTrueDepthカメラを搭載したiOSデバイス単体でモデルの表示と操作が行えます．
 
+![img](Image/IMG_0352.PNG)
+
+![img](Image/IMG_0351.PNG)
+
 
 ## 実行環境
 Apple製のTrueDepthカメラ搭載のiOSデバイス
