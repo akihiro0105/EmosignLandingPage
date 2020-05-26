@@ -66,6 +66,7 @@ Apple製のTrueDepthカメラ搭載のiOSデバイス
 
 ## 今後の予定
 - [ ] AppStoreでのリリース
+- [ ] 3Dモデルの表情、挙動調整
 - [ ] Windows/Mac連携アプリ
 - [ ] TureDepthカメラ未対応デバイス対応
 
