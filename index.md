@@ -1,5 +1,3 @@
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Emosign
 - 誰でも簡単にモーショントラッキングを利用したアバター表示を行うことができるアプリです．
 - 表情と両手の認識を行うことでアバターを操作することができます．
@@ -77,3 +75,6 @@ Apple製のTrueDepthカメラ搭載のiOSデバイス
 ## お問い合わせ
 - [お問い合わせページ](https://docs.google.com/forms/d/e/1FAIpQLSeM6epPLYCkLF4ngk_GQKEzkqP9Fn1FzsuyhnKS3RJylz_Klg/viewform)
 - [Twitter](https://twitter.com/akihiro01051)
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw&hashtags=Emosign" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
