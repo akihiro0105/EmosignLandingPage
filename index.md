@@ -13,7 +13,11 @@
 
 テストを行うiOSデバイスで以下のリンクにアクセスしてEmosignをテストしてください．
 
-**[TestFlightに参加する]()**
+動作するデバイスの情報や機能に対するフィードバックなど送っていただくと開発の参考にさせていただきます。
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw&hashtags=Emosign" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**[TestFlightに参加する](https://testflight.apple.com/join/bgS7F2Vq)**
 
 
 ## 機能紹介
@@ -35,7 +39,7 @@ TrueDepthカメラを利用した表情認識を行いアバターに反映さ�
 
 ## 実行環境
 Apple製のTrueDepthカメラ搭載のiOSデバイス
-- [ ] iPhone 11 Pro Max
+- [ ] ~~iPhone 11 Pro Max~~
 - [ ] iPhone 11 Pro
 - [ ] iPhone 11
 - [ ] iPhone XS Max
