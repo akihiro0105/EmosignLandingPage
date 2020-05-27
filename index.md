@@ -1,3 +1,5 @@
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Emosign
 - 誰でも簡単にモーショントラッキングを利用したアバター表示を行うことができるアプリです．
 - 表情と両手の認識を行うことでアバターを操作することができます．
@@ -10,9 +12,10 @@
 
 ## TestFlight
 現在Emosignはテスト段階でありTestFlightでのテスターを募集しています．
-iOSデバイスで以下のリンクにアクセスしてEmosignをテストしてください．
 
-[TestFlightに参加する]()
+テストを行うiOSデバイスで以下のリンクにアクセスしてEmosignをテストしてください．
+
+**[TestFlightに参加する]()**
 
 
 ## 機能紹介
@@ -40,10 +43,10 @@ Apple製のTrueDepthカメラ搭載のiOSデバイス
 - [ ] iPhone XS Max
 - [x] iPhone XS
 - [ ] iPhone XR
-- [ ] iPhone X
+- [x] iPhone X
 - [ ] iPad Pro 12.9 インチ (第 4 世代)
 - [ ] iPad Pro 12.9 インチ (第 3 世代)
-- [ ] iPad Pro 11 インチ (第 2 世代)
+- [x] iPad Pro 11 インチ (第 2 世代)
 - [ ] iPad Pro 11 インチ
 - [x] 動作確認済み
 
