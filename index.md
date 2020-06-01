@@ -68,6 +68,9 @@ Apple製のTrueDepthカメラ搭載のiOSデバイス
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZv-hvIA7XU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Emosignの背景画像追加方法](https://youtu.be/18X1MQEKloc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/18X1MQEKloc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 今後の予定
 - [ ] AppStoreでのリリース
