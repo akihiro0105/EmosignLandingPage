@@ -39,7 +39,7 @@ TrueDepthカメラを利用した表情認識を行いアバターに反映さ�
 
 ## 実行環境
 Apple製のTrueDepthカメラ搭載のiOSデバイス
-- [ ] ~~iPhone 11 Pro Max~~
+- [ ] iPhone 11 Pro Max
 - [ ] iPhone 11 Pro
 - [ ] iPhone 11
 - [ ] iPhone XS Max
