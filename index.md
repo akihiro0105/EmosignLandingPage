@@ -32,10 +32,12 @@ TrueDepthカメラを利用した表情認識を行いアバターに反映さ�
 ### ハンドトラッキング対応
 画像処理による指を含めた両手のトラッキングをアバターに反映させることができます．
 
+-----
 
-## ライセンス
-[ライセンスの詳細についてはこちら](https://akihiro0105.github.io/EmosignLicensePage/)
+## [有料版](https://akihiro0105.github.io/EmosignLicensePage/)
+[有料版の詳細についてはこちら](https://akihiro0105.github.io/EmosignLicensePage/)
 
+-----
 
 ## 実行環境
 Apple製のTrueDepthカメラ搭載のiOSデバイス
@@ -54,6 +56,7 @@ Apple製のTrueDepthカメラ搭載のiOSデバイス
 
 [参考ページ](https://support.apple.com/ja-jp/HT209183)
 
+-----
 
 ## 使い方
 [Emosignの利用開始方法](https://youtu.be/HYjYt9sq6Bs)
