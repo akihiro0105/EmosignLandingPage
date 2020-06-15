@@ -3,21 +3,17 @@
 - 表情と両手の認識を行うことでアバターを操作することができます．
 - 現在はTrueDepthカメラを搭載したiOSデバイス単体でモデルの表示と操作が行えます．
 
-![img](Image/IMG_0351.PNG)|![img](Image/IMG_0352.PNG)
+**公開しました！**
 
-![img](Image/Capture20200525115445.png){:height="100%" width="100%"}
+## [「Emosign」をApp Storeで](https://apps.apple.com/jp/app/emosign/id1510650833?l=ja&ls=1)
 
-
-## TestFlight
-現在Emosignはテスト段階でありTestFlightでのテスターを募集しています．
-
-テストを行うiOSデバイスで以下のリンクにアクセスしてEmosignをテストしてください．
-
-動作するデバイスの情報や機能に対するフィードバックなど送っていただくと開発の参考にさせていただきます。
+<a href="https://apps.apple.com/jp/app/emosign/id1510650833?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-06-15&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw&hashtags=Emosign" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**[TestFlightに参加する](https://testflight.apple.com/join/bgS7F2Vq)**
+![img](Image/IMG_0351.PNG)|![img](Image/IMG_0352.PNG)
+
+![img](Image/Capture20200525115445.png){:height="100%" width="100%"}
 
 
 ## 機能紹介
