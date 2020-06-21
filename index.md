@@ -72,7 +72,7 @@ Apple製のTrueDepthカメラ搭載のiOSデバイス
 <iframe width="560" height="315" src="https://www.youtube.com/embed/18X1MQEKloc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 今後の予定
-- [ ] AppStoreでのリリース
+- [x] AppStoreでのリリース
 - [ ] 3Dモデルの表情、挙動調整
 - [ ] Windows/Mac連携アプリ
 - [ ] TureDepthカメラ未対応デバイス対応
