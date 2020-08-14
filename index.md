@@ -1,9 +1,9 @@
 ## Emosign
 - 誰でも簡単にモーショントラッキングを利用したVRMアバター表示を行うことができるアプリです．
 - 表情と両手の認識を行うことでアバターを操作することができます．
-- 現在はTrueDepthカメラを搭載したiOSデバイス単体でモデルの表示と操作が行えます．
+- ~~現在はTrueDepthカメラを搭載したiOSデバイス単体でモデルの表示と操作が行えます．~~
 
-**公開しました！**
+**v1.1.0でTrueDepthカメラ未搭載のiOSデバイスでも簡易トラッキングできるようになりました！**
 
 ## [「Emosign」をApp Storeで](https://apps.apple.com/jp/app/emosign/id1510650833?l=ja&ls=1)
 
@@ -22,6 +22,8 @@ VRMフォーマットの3Dモデルに対応しています．
 
 [VRMフォーマットについて](https://vrm.dev/)
 
+**v1.1.0からiPhone用のBlendShapeを設定したVRMモデル(パーフェクトシンク)の表情に対応しました．**
+
 ### 表情認識対応
 TrueDepthカメラを利用した表情認識を行いアバターに反映させることができます．
 
@@ -37,6 +39,7 @@ TrueDepthカメラを利用した表情認識を行いアバターに反映さ�
 
 ## 実行環境
 Apple製のTrueDepthカメラ搭載のiOSデバイス
+**v1.1.0からTrueDepthカメラが未搭載のiOSデバイスでも簡易トラッキングが利用できるようになりました．**
 - [x] iPhone 11 Pro Max
 - [ ] iPhone 11 Pro
 - [ ] iPhone 11
@@ -73,10 +76,12 @@ Apple製のTrueDepthカメラ搭載のiOSデバイス
 
 ## 今後の予定
 - [x] AppStoreでのリリース
-- [ ] 3Dモデルの表情、挙動調整
+- [x] 3Dモデルの表情、挙動調整
 - [ ] Windows/Mac連携アプリ
-- [ ] TureDepthカメラ未対応デバイス対応
+- [x] TureDepthカメラ未対応デバイス対応
 
+## 更新履歴
+- 2020/08/14 v1.1.0公開
 
 ## お問い合わせ
 - [お問い合わせページ](https://docs.google.com/forms/d/e/1FAIpQLSeM6epPLYCkLF4ngk_GQKEzkqP9Fn1FzsuyhnKS3RJylz_Klg/viewform)
